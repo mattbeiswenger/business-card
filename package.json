@@ -1,10 +1,14 @@
 {
   "name": "mattbeiswenger",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Contact information and social links",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "bin": {
+    "main": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattbeiswenger/business-card.git"
   },
   "author": "Matt Beiswenger <mattbeis@yahoo.com>",
   "license": "MIT",
