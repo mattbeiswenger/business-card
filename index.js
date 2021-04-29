@@ -3,6 +3,7 @@
 const links = [
   { title: 'Twitter', url: 'beis.io/twitter' },
   { title: 'Instagram', url: 'beis.io/insta' },
+  { title: 'GitHub', url: 'beis.io/github' },
 ]
 
 const longestTitleLength = links
