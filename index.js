@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 
 const links = [
+  { title: 'Website', url: 'beis.io' },
   { title: 'Twitter', url: 'beis.io/twitter' },
   { title: 'Instagram', url: 'beis.io/insta' },
   { title: 'GitHub', url: 'beis.io/github' },
